@@ -1,0 +1,18 @@
+body {
+    background-image: url(fondo.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    min-height: calc(100vh - 160px);
+  }
+  
+.titulo {
+    text-align: center;
+    color: white;
+}
+
+.pika {
+    width: 10%;
+}
